@@ -1,4 +1,3 @@
-from pyexpat.errors import XML_ERROR_CANT_CHANGE_FEATURE_ONCE_PARSING
 import pygame
 
 
